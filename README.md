@@ -9,6 +9,6 @@ locking('Your text')
 Use the code below to unlock the encryption
 unlocker('The encrypted code you received earlier')
 
-# Change protocol
+# Change the protocol
 You can also change the type of encryption according to your taste
-For this, just change the letters "first" and "first1". Be careful not to increase or decrease the number of letters
+For this, just change the value letters "first" and "first1". Be careful not to increase or decrease the number of letters
